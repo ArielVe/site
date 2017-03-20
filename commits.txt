@@ -1,0 +1,52 @@
+﻿<!doctype html5>
+	
+<html lang="pt-br">
+		
+	<head>	
+		<meta charset="UTF-8">
+			
+		<meta name="author" content="Ariel">
+			
+		<meta name="Description" content="Esportes">
+			
+		<metaname="Keywordscontent="PI">
+		<title>Projeto Integrador</title>
+		
+	</head>
+		
+	<body>		
+		<h1>Execicio</h1>
+			
+		<ul>	
+			<li>Github</li>
+				
+			<li>Desenvolvidor</li>
+				
+			<li>Exercicio</li>
+				
+			<li>Precisa conter 5 commits</li>
+				
+			<li>Finalizar com exito</li>
+		</ul>
+			
+		<dl>	
+			<dt>Commits							
+				<dd>Serão criadas 5 commits diferentes, para que seja finalizado o trabalho.</dd>
+			</dl>
+	
+		<ol type="1">
+				
+			<li>Danilo</li>
+				
+			<li>Kennedy</li>
+			
+			<li>Tiago</li>
+				
+			<li>Vinicius</li>
+				
+			<li>Rodrigo</li>
+		</ol>
+		<img src="esportes.jpg">			
+				
+	</body>
+</html>
