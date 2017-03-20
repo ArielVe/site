@@ -1,0 +1,32 @@
+<!doctype html5>
+<html lang="pt-br">
+	<head>	
+		<meta charset="UTF-8">
+		<meta name="author" content="Ariel">
+		<meta name="Description" content="Comandos">
+		<metaname="Keywordscontent="HTML">
+  	<title>HTML</title>
+	</head>
+	<body>		
+		<h1>Comandos</h1>
+		<ul>	
+			<li>Aprendendo HTML</li>			
+		</ul>
+		<dl>	
+			<dt>Comandos Simples							
+				<dd>Comandos usados no HTML</dd>
+		</dl>
+		<ol type="1">	
+			<li>DIV</li>
+			<li>IMG SRC</li>
+			<li>LI</li>
+			<li>DL</li>
+			<li>DT</li>
+			<li>DD</li>
+			<li>UL</li>
+			<li>OL</li>
+			<li>H1</li>
+			<li>TITLE></li>					
+		</ol>		
+	</body>
+</html>
