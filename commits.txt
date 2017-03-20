@@ -7,7 +7,7 @@
 			
 		<meta name="author" content="Ariel">
 			
-		<meta name="Description" content="Esportes">
+		<meta name="Description" content="PI">
 			
 		<metaname="Keywordscontent="PI">
 		<title>Projeto Integrador</title>
@@ -36,17 +36,13 @@
 	
 		<ol type="1">
 				
-			<li>Danilo</li>
-				
-			<li>Kennedy</li>
-			
-			<li>Tiago</li>
-				
-			<li>Vinicius</li>
-				
-			<li>Rodrigo</li>
+			<li>Web Standard</li>	
+			<li>Pré Calculo</li>
+			<li>CGW</li>	
+			<li>EAD</li>	
+			<li>PI</li>
+			<li>Outros</li>
 		</ol>
-		<img src="esportes.jpg">			
 				
 	</body>
 </html>
