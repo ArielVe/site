@@ -1,0 +1,44 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" 
+
+"http://www.w3.org/TR/html4/strict.dtd">
+
+<html>
+
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	  <title>Auto mais</title>
+		<meta name="autor" content="Ariel">
+		<meta name="Description" content="Carros, Automoveis">
+		<meta name="Keywords" content="Carros, Automoveis, Jeep">
+		<meta name="robots" content="index, follow">
+  </head>
+	<body>
+		<div id="header"><h1>Auto Mais</h1></div>
+		<div id="nav"><a href="">Pagina1</a></div>
+		<div id="section">
+	
+		<h2>Jeep</h2>
+		<h3>1940</h3>
+			<p>Sinônimo de 4x4, o primeiro Jeep nasceu para servir na guerra. Em tempos de paz, seus derivados ajudaram a desenvolver novas nações e popularizaram um estilo de vida que rompeu as barreiras do asfalto.</p>
+
+		<h3>1945</h3>		
+			<p>Chega ao mercado o CJ-2A, o primeiro Jeep civil e o primeiro a ostentar a grade frontal com sete aberturas. Ideal para o uso rural e industrial, podia ser equipado com assentos extras, tomadas de força para implementos agricolas, guincho, removedor de neve e outras ferramentas.</p>
+
+			<p><img src="../Desktop/jeep.jpg" alt="CJ-2A"></p>
+			
+		<h3>Curiosidades</h3>
+			
+			<p>Segundo a Chrysler do Brasil, o nome Jeep deve-se ao personagem de histórias em quadrinhos chamado "Jeep". Em 16 de março de 1936 o personagem conhecido pelo nome de Eugene the Jeep foi criada pelo cartunista E. C. Segar para fazer companhia ao Popeye. Ele era do tamanho de um cachorro e nativo da África e capaz de passar para a quarta dimensão. Ele resolvia todos os problemas do Popeye e da Olivia Palito e sempre falava a verdade. Este personagem cativou o público e se tornou rapidamente popular. O termo "Hey, he's a real Jeep!" ou "Ei, ele é um verdadeiro Jeep!" era constantemente empregado para pessoas que demonstravam uma capacidade superior.</p>
+		
+		<h3>2017</h3>		
+			<p><img src="../Desktop/jeep2.jpg" alt="Renegade"></p>
+		</div>
+		
+		<div id="footer">
+			<p>Tecnologia em Sistemas para Internet</p>
+			<p>Web Standard</p>
+    </div>
+	
+  </body>
+
+</html>
